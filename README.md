@@ -5,7 +5,7 @@ Saya menyukai tentang informatika. Saya sangat tertarik terhadap cara kerja komp
 
 ## 🎓 Pendidikan
 
-#### 1. [SMA TARUNA MANDARA](https://www.smatarunamandara.sch.id/) | IPS | Singaraja 2022-2025
+#### 1. [SMA TARUNA MANDARA](https://www.smatarunamandara.sch.id/) | Singaraja 2022-2025
 #### 2. [SMP 257 JAKARTA](https://www.instagram.com/smpn257jkt/) | Jakarta Timur 2019-2022
 #### 3. [SD NEGERI 01 PAGI JAKARTA](https://g.co/kgs/4Gt6WmX) | Jakarta Timur 2013-2019
 #### 4. TK DHARMA SANTI | Jakarta Timur
