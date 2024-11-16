@@ -8,7 +8,7 @@ Saya menyukai tentang informatika. Saya sangat tertarik terhadap cara kerja komp
 #### 1. [SMA TARUNA MANDARA](https://www.smatarunamandara.sch.id/) | Singaraja 2022-2025
 #### 2. [SMP NEGERI 257 JAKARTA](https://www.instagram.com/smpn257jkt/) | Rambutan, Jakarta 2019-2022
 #### 3. [SD NEGERI SUSUKAN 01 PAGI](https://g.co/kgs/4Gt6WmX) | Susukan, Jakarta 2013-2019
-#### 4. TK DHARMA SANTI | Cijantung, Jakarta
+#### 4. TK DHARMA SANTI | Cijantung, Jakarta 2012-2013
 
 ## 🏆 Kejuaraan Saat Ini
 
