@@ -21,7 +21,7 @@ Saya seorang yang menyukai tentang teknologi, terutama bidang informatika. Saya 
 
 ## 🌟 Keahlian Saat Ini
 
-- *Bahasa Pemrograman*: HTML, JavaScript, CSS, C++
+- *Bahasa Pemrograman*: HTML, JavaScript, CSS, dan C++ (Basic)
 - *Alat*: Visual Code dan Kali Linux (Basic)
 
 ## 📫 Kontak
