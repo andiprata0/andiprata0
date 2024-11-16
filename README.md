@@ -1,5 +1,5 @@
 # 👋 Hai!
-Perkenalkan nama saya *Putu Andika Pratma*, Bisa dipanggil *Andika*. Saya berasal dari bali akan tetapi, saat ini saya tinggal di jakarta.
+Perkenalkan nama saya *Putu Andika Pratma*, Bisa dipanggil *Andika*. Saya berasal dari Bali akan tetapi, saat ini saya tinggal di Jakarta.
 Saya menyukai tentang informatika. Saya sangat tertarik terhadap cara kerja komputer dan jaringan, serta bagaimana teknologi dapat membantu manusia. Saya juga suka membaca dan menonton Video tentang informatika. Saya berharap dapat memperdalam pengetahuan saya di bidang ini.
 
 
