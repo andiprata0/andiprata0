@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="">
     <img src="https://id.bloggif.com/tmp/403c3f25d58036a3571724176ca53be2/text.gif?1731796544" />
 </h1>
 
