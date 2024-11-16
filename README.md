@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://en.bloggif.com/tmp/b26809c4de27df1ea6647a7cabcebab5/text.gif?1731796413" />
+    <img src="https://id.bloggif.com/tmp/403c3f25d58036a3571724176ca53be2/text.gif?1731796544" />
 </h1>
 
 Perkenalkan nama saya *Putu Andika Pratama*, Bisa dipanggil *Andika*. Saya berasal dari Bali akan tetapi, saat ini saya tinggal di Jakarta.
