@@ -10,8 +10,8 @@ Saya seorang yang menyukai tentang teknologi, terutama bidang informatika. Saya 
 
 ## 🏆 Kejuaraan Saat Ini
 
-- Juara 1 Nasional Olimpiade Sejarah Dalam Ajang Kejuaraan Sains Nusantara Hari Sumpah Pemuda Oleh C.V Divya Cahaya Prestasi
-- Juara 2 Nasional Olimpiade Kebumian Dalam Ajang Kejuaraan Sains Nusantara Hari Sumpah Pemuda Oleh C.V Divya Cahaya Prestasi
+- Juara 1 Nasional Olimpiade Sejarah Dalam Ajang Kejuaraan Sains Nusantara Hari Sumpah Pemuda Oleh C.V Divya Cahaya Prestasi Tingkat SMA
+- Juara 2 Nasional Olimpiade Kebumian Dalam Ajang Kejuaraan Sains Nusantara Hari Sumpah Pemuda Oleh C.V Divya Cahaya Prestasi Tingkat SMA
 
 ## 🤝🏻 Organisasi
 
