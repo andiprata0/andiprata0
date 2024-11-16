@@ -1,4 +1,9 @@
-# 👋 Halo Semuanya!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Halo Semuanya!+👋!;" />
+</h1>
+
 Perkenalkan nama saya *Putu Andika Pratama*, Bisa dipanggil *Andika*. Saya berasal dari Bali akan tetapi, saat ini saya tinggal di Jakarta.
 Saya menyukai tentang informatika. Saya sangat tertarik terhadap cara kerja komputer dan jaringan. Saya juga suka membaca dan menonton Video tentang informatika. Saya berharap dapat memperdalam pengetahuan saya di bidang ini.
 
