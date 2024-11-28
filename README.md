@@ -1,7 +1,4 @@
-
-<h1>
-    <img src="https://id.bloggif.com/tmp/403c3f25d58036a3571724176ca53be2/text.gif?1731796544" />
-</h1>
+##  Perkenalan
 
 Perkenalkan nama saya *Putu Andika Pratama*, Bisa dipanggil *Andika*. Saya berasal dari Bali akan tetapi, saat ini saya tinggal di Jakarta.
 Saya menyukai tentang informatika. Saya sangat tertarik terhadap cara kerja komputer dan jaringan. Saya juga suka membaca dan menonton Video tentang informatika. Saya berharap dapat memperdalam pengetahuan saya di bidang ini.
