@@ -31,4 +31,5 @@ Saya menyukai tentang Informatika. Saya sangat tertarik terhadap cara kerja komp
 
 - *Email*: [putuandikapratama0@gmail.com.com](mailto:putuandikapratama0@gmail.com)
 - *Instagram*: [instagram.com/andiprata_](https://www.instagram.com/andiprata_)
+- *X/Twitter*: [x.com/AndiPrata_](https://x.com/AndiPrata_)
 - *Linkedin*: [linkedin.com/in/putu-andika-pratama-130893318/](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
