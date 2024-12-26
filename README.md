@@ -1,7 +1,7 @@
 ##  Perkenalan
 
 Perkenalkan nama saya *Putu Andika Pratama*, Bisa dipanggil *Andika*. Saya berasal dari Bali akan tetapi, saat ini saya tinggal di Jakarta.
-Saya menyukai tentang informatika. Saya sangat tertarik terhadap cara kerja komputer dan jaringan. Saya juga suka membaca dan menonton Video tentang informatika. Saya berharap dapat memperdalam pengetahuan saya di bidang ini.
+Saya menyukai tentang Informatika. Saya sangat tertarik terhadap cara kerja komputer dan jaringan. Saya juga suka membaca dan menonton Video tentang informatika. Saya berharap dapat memperdalam pengetahuan saya di bidang ini.
 
 
 ## 🎓 Pendidikan
@@ -16,7 +16,7 @@ Saya menyukai tentang informatika. Saya sangat tertarik terhadap cara kerja komp
 - Juara 1 Nasional Olimpiade Sejarah Dalam Ajang Kejuaraan Sains Nusantara Hari Sumpah Pemuda Oleh C.V Divya Cahaya Prestasi Tingkat SMA
 - Juara 2 Nasional Olimpiade Kebumian Dalam Ajang Kejuaraan Sains Nusantara Hari Sumpah Pemuda Oleh C.V Divya Cahaya Prestasi Tingkat SMA
 
-## 🤝🏻 Organisasi
+## 🤝🏻 Pernah Gabung Organisasi
 
 - Anggota Osis SMP 257 JAKARTA
 - Anggota Paskibra SMP 257 JAKARTA
