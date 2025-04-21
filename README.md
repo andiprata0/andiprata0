@@ -4,7 +4,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andiprata0&label=Profile%20views&color=0e75b6&style=flat)
-[![Github](https://img.shields.io/badge/-@andiprata-181717?style=flat&logo=github&logoColor=white)](https://github.com/andiprata)
+[![Github](https://img.shields.io/badge/-@andiprata0-181717?style=flat&logo=github&logoColor=white)](https://github.com/andiprata0)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
 [![Instagram](https://img.shields.io/badge/-@andiprata_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/andiprata_)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:putuandikapratama0@gmail.com)
@@ -62,8 +62,8 @@ I'm passionate about **Informatics**, especially how **computers and networks** 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andiprata&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiprata&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andiprata0&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiprata0&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
