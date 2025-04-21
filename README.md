@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Andika!
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=andiprata&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=andiprata0&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/badge/-@andiprata-181717?style=flat&logo=github&logoColor=white)](https://github.com/andiprata)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
 [![Instagram](https://img.shields.io/badge/-@andiprata_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/andiprata_)
@@ -8,7 +11,13 @@
 
 ![Coding Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Andika;Aspiring+Full-Stack+Developer;Tech+Enthusiast+%F0%9F%94%A5)
 
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="800">
+</p>
 
 ---
 
@@ -65,7 +74,6 @@ I'm passionate about **Informatics**, especially how **computers and networks** 
 
 - ✉️ Email: [putuandikapratama0@gmail.com](mailto:putuandikapratama0@gmail.com)  
 - 📷 Instagram: [@andiprata_](https://www.instagram.com/andiprata_)  
-- 🐦 Twitter/X: [@AndiPrata_](https://x.com/AndiPrata_)  
 - 💼 LinkedIn: [linkedin.com/in/putu-andika-pratama-130893318](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
 
 ---
