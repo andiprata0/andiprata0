@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Andika!
----
 
 <div align="center">
 
