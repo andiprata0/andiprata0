@@ -12,8 +12,6 @@
 [![Instagram](https://img.shields.io/badge/-@andiprata_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/andiprata_)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:putuandikapratama0@gmail.com)
 
-![Coding Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Andika;Aspiring+Full-Stack+Developer;Tech+Enthusiast+%F0%9F%94%A5)
-
 </div>
 
 <p align="center">
