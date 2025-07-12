@@ -71,7 +71,7 @@ I'm passionate about **Informatics**, especially how **computers and networks** 
 
 ## 📫 Contact Me
 
-- ✉️ Email: [putuandikapratama0@gmail.com](mailto:developer@andiprata.my.id)  
+- ✉️ Email: [developer@andiprata.my.id](mailto:developer@andiprata.my.id)  
 - 📷 Instagram: [@andiprata_](https://www.instagram.com/andiprata_)  
 - 💼 LinkedIn: [linkedin.com/in/putu-andika-pratama-130893318](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
 
