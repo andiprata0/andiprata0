@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/badge/-@andiprata0-181717?style=flat&logo=github&logoColor=white)](https://github.com/andiprata0)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
 [![Instagram](https://img.shields.io/badge/-@andiprata_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/andiprata_)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:putuandikapratama0@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:developer@andiprata.my.id)
 
 </div>
 
@@ -71,7 +71,7 @@ I'm passionate about **Informatics**, especially how **computers and networks** 
 
 ## 📫 Contact Me
 
-- ✉️ Email: [putuandikapratama0@gmail.com](mailto:putuandikapratama0@gmail.com)  
+- ✉️ Email: [putuandikapratama0@gmail.com](mailto:developer@andiprata.my.id)  
 - 📷 Instagram: [@andiprata_](https://www.instagram.com/andiprata_)  
 - 💼 LinkedIn: [linkedin.com/in/putu-andika-pratama-130893318](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
 
