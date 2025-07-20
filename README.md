@@ -14,7 +14,7 @@
 
 </div>
 
-<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/e068fa12-9f7c-4268-939d-d3cdf8fcb11b" />
+[![Oshi no Ko](https://media.tenor.com/o-VUZYADFKQAAAAC/oshi-no-ko-onk.gif)](https://tenor.com/view/oshi-no-ko-onk-oshi-no-ko-season-2-season-2-episode-4-gif-6012561694373145250)
 
 ---
 
