@@ -14,7 +14,11 @@
 
 </div>
 
-[![Kurokawa Akane](https://media1.tenor.com/m/WjkRRybgpC8AAAAC/oshi-no-ko-kurokawa-akane.gif)
+<div align="center">
+  <a href="https://media1.tenor.com/m/WjkRRybgpC8AAAAC/oshi-no-ko-kurokawa-akane.gif">
+    <img src="https://media1.tenor.com/m/WjkRRybgpC8AAAAC/oshi-no-ko-kurokawa-akane.gif" alt="Kurokawa Akane GIF" width="400" />
+  </a>
+</div>
 
 ---
 
