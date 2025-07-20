@@ -13,7 +13,8 @@
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:developer@andiprata.my.id)
 
 </div>
-<div class="tenor-gif-embed" data-postid="6012561694373145250" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/oshi-no-ko-onk-oshi-no-ko-season-2-season-2-episode-4-gif-6012561694373145250">Oshi No Ko Onk GIF</a>from <a href="https://tenor.com/search/oshi+no+ko-gifs">Oshi No Ko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/e068fa12-9f7c-4268-939d-d3cdf8fcb11b" />
 
 ---
 
