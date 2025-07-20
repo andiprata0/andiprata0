@@ -14,7 +14,7 @@
 
 </div>
 
-[![Kurokawa Akane](https://media.tenor.com/x_lSAYCQkY8AAAAC/oshi-no-ko-kurokawa-akane.gif)](https://tenor.com/view/oshi-no-ko-kurokawa-akane-hoshino-ai-aikane-aikane-kurokawa-gif-6501246534378628143)
+[![Kurokawa Akane](https://media1.tenor.com/m/WjkRRybgpC8AAAAC/oshi-no-ko-kurokawa-akane.gif)
 
 ---
 
