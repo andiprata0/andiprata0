@@ -14,7 +14,7 @@
 
 </div>
 
-[![Oshi no Ko](https://media.tenor.com/o-VUZYADFKQAAAAC/oshi-no-ko-onk.gif)](https://tenor.com/view/oshi-no-ko-onk-oshi-no-ko-season-2-season-2-episode-4-gif-6012561694373145250)
+[![Kurokawa Akane](https://media.tenor.com/x_lSAYCQkY8AAAAC/oshi-no-ko-kurokawa-akane.gif)](https://tenor.com/view/oshi-no-ko-kurokawa-akane-hoshino-ai-aikane-aikane-kurokawa-gif-6501246534378628143)
 
 ---
 
