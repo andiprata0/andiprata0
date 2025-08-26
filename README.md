@@ -31,7 +31,7 @@ I'm passionate about **Informatics**, especially how **computers and networks** 
 ---
 
 ## 🎓 Education
-
+- 🏫 [**Universitas Indraprasta PGRI**](https://unindra.ac.id/) | Jagakarsa, Jakarta (2025-Now)
 - 🏫 [**SMA Taruna Mandara**](https://www.smatarunamandara.sch.id/) | Singaraja, Bali (2022–2025)  
 - 🏫 [**SMP Negeri 257 Jakarta**](https://www.instagram.com/smpn257jkt/) | Rambutan, Jakarta (2019–2022)
 
