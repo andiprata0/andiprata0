@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/4e3h1OQeUGIAAAAd/oshi-no-ko-akane.gif" alt="Anime Oshi No Ko GIF" width="600"/>
+  <img src="anime-oshi-no-ko.gif" alt="Anime Oshi No Ko GIF" width="600"/>
 </div>
 
 ---
