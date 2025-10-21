@@ -40,21 +40,6 @@ I love reading and watching videos about technology, and I'm always eager to **d
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **1st Place (National)** – History Olympiad (Sumpah Pemuda Science Championship by CV Divya Cahaya Prestasi)  
-- 🥈 **2nd Place (National)** – Earth Science Olympiad (Sumpah Pemuda Science Championship by CV Divya Cahaya Prestasi)
-
----
-
-## 🤝 Organizational Experience
-
-- **Student Council (OSIS)** – SMP Negeri 257 Jakarta  
-- **Flag-Raising Troop (Paskibra)** – SMP Negeri 257 Jakarta  
-- **Youth Organization (Karang Taruna)** – Patemon Village
-
----
-
 ## 💻 Skills
 
 **Programming Languages:**  
