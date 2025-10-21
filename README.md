@@ -20,6 +20,7 @@
   </a>
 </div>
 
+<div class="tenor-gif-embed" data-postid="6175897819842495165" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/anime-oshi-no-ko-akane-kurokawa-sad-raining-gif-6175897819842495165">Anime Oshi No Ko GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 ## 🙋 About Me
