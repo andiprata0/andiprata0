@@ -28,7 +28,7 @@ Hi! My name is **Putu Andika Pratama**, usually called **Andika**.
 I'm originally from **Bali**, Indonesia, and currently living in **Jakarta**.
 
 I'm passionate about **Informatics**, especially how **computers and networks** work.  
-I love reading and watching videos about technology, and I'm always eager to **deepen my knowledge** in this field.
+I love reading manhwa, manga and watching videos about technology, donghua, anime, and I'm always eager to **deepen my knowledge** in this field.
 
 ---
 
