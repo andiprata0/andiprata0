@@ -69,5 +69,5 @@ I’m always eager to learn more and level up my skills in this field.
 
 ---
 
-> _"Keep learning, because the future is built from the small things we start today."_ 🚀
+> _"Spirt, Skill, Stamina."_ 🚀
 
