@@ -45,7 +45,7 @@ I’m always eager to learn more and level up my skills in this field.
 ## 💻 Skills
 
 **Programming Languages:**  
-`HTML`, `CSS`, `JavaScript`, `C++`, `Python (Basic)`
+`HTML`, `CSS`, `JavaScript` (Basic)`
 
 **Tools & Operating Systems:**  
 `Visual Studio Code`, `Kali Linux (Basic)`
