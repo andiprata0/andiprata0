@@ -63,7 +63,7 @@ I’m always eager to learn more and level up my skills in this field.
 
 ## 📫 Contact Me
 
-- ✉️ Email: [developer@andiprata.my.id](mailto:developer@andiprata.my.id)  
+- ✉️ Email: [developer@andiprata.my.id](mailto:putuandikapratama2@gmail.com)  
 - 📷 Instagram: [@andiprata_](https://www.instagram.com/andiprata_)  
 - 💼 LinkedIn: [linkedin.com/in/putu-andika-pratama-130893318](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
 
