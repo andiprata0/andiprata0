@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/-@andiprata0-181717?style=flat&logo=github&logoColor=white)](https://github.com/andiprata0)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putu-andika-pratama-130893318/)
 [![Instagram](https://img.shields.io/badge/-@andiprata_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/andiprata_)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:developer@andiprata.my.id)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:putuandikapratama2@gmail.com)
 
 </div>
 
