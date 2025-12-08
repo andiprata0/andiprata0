@@ -52,15 +52,6 @@ I’m always eager to learn more and level up my skills in this field.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andiprata0&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiprata0&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - ✉️ Email: [developer@andiprata.my.id](mailto:putuandikapratama2@gmail.com)  
