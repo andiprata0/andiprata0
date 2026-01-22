@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="anime-oshi-no-ko.gif" alt="Anime Oshi No Ko GIF" width="500"/>
+  <img src="Akane01.gif" alt="Anime Oshi No Ko GIF" width="500"/>
 </div>
 
 ---
