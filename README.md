@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="Akane01.gif" alt="Anime Oshi No Ko GIF" width="500"/>
+  <img src="akanecute2.webp" alt="Anime Oshi No Ko GIF" width="500"/>
 </div>
 
 ---
